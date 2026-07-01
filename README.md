@@ -1,4 +1,4 @@
-SendLite Fintech Hackathon
+SendLite | Fintech Hackathon
 
 Overview
 
